@@ -329,7 +329,7 @@ body{
     }
 }
 
-@media only screen and (max-device-width: 640px){
+@media screen and (max-device-width: 480px) and (orientation: portrait){
     .super-container{
         display: grid;
         margin-bottom: 50px !important;
