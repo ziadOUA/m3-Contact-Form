@@ -333,34 +333,40 @@ body{
     .super-container{
         display: grid;
         margin-bottom: 50px !important;
+        width: calc(100vw - 100px);
     }
 
     .container{
         height: fit-content;
         width: 100%;
-        height: 70vh;
     }
 
     .illustration{
-        height: 20%;
+/*        height: 20%;*/
         width: 100%;
         height: fit-content;
         padding: 0px;
-        height: 30vh;
     }
 
     .image{
         width: 100% !important;
-        height: 100px !important;
+        height: 350px !important;
         background-size: 100% !important;
     }
 
     .image{
-        margin-bottom: 20px;
+        margin-bottom: 40px;
     }
 
     .title{
         font-family: 'Lexend Zetta', sans-serif !important;
+        font-size: 75px !important;
+    }
+    
+    .header{
+        height: 150px !important;
+        border-radius: 100px !important;
+        margin-bottom: 40px;
     }
 
     .save-draft-button{
@@ -370,32 +376,65 @@ body{
     body{
         height: 100vh;
         padding-bottom: 0px !important;
-        padding-top: 20px !important;
+        padding-top: 50px !important;
     }
     
     .button-bar{
-        display: grid;
+        display: block;
         margin: auto;
+        width: 300px;
         margin-top: 20px !important;
+        height: 220px !important;
     }
 
     .small-buttons-container{
-        width: 176px;
+        width: 300px;
         margin: auto;
+        height: 100px !important;
     }
 
     .submit-button{
         margin-left: 0px !important;
         margin-top: 20px;
+        width: 300px;
+        height: 100px;
+        font-size: 48px;
     }
 
     .save-draft-button{
         float: right;
-        width: calc(176px / 2 - 10px);
+        height: 100px;
+        width: calc(300px / 2 - 10px);
     }
 
     .back-button{
-        width: calc(176px / 2 - 10px) !important;
+        width: calc(300px / 2 - 10px) !important;
+        height: 100px !important;
+    }
+    
+    .contact-input{
+        height: 100px !important;
+        margin-top: 40px;
+        border-radius: 100px;
+        padding-left: 50px;
+        font-size: 25px;
+    }
+    
+    ::placeholder{
+        font-size: 25px;
+    }
+    
+    .material-symbols-rounded{
+        font-size: 48px !important;
+    }
+    
+    .contact-input-message{
+        min-height: 150px !important;
+        margin-top: 40px;
+        border-radius: 65px;
+        padding-left: 50px;
+        padding-top: 50px;
+        font-size: 25px;
     }
 }
 
