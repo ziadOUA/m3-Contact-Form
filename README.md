@@ -5,6 +5,8 @@
 
 <p align="center"> <a href ="#"> <img src="https://imgur.com/H3GNXc9.png" width="480px" style="float: center;"/> </a> </p>
 
+---
+
 This is a contact form designed to be both beautiful and functional. This is only the front-end, but I made it as simple as possible integrating logic and back-end.
 
 <a href="https://ziadoua.github.io/m3-Contact-Form/" target="_blank" rel="noopener noreferrer"> <img src="https://imgur.com/Wk0lfTg.png" width="250px"/> </a>
