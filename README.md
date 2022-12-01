@@ -1,9 +1,9 @@
 # m3 Contact Form
-<a href ="#"><img src="Images/banner.png"/></a>
+<img src="Images/banner.png"/>
 
 📧 A Material You inspired contact form (front-end only).
 
-<p align="center"> <a href ="#"> <img src="https://imgur.com/H3GNXc9.png" width="480px" style="float: center;"/> </a> </p>
+<p align="center"><img src="https://imgur.com/H3GNXc9.png" width="480px" style="float: center;"/></p>
 
 ---
 
