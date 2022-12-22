@@ -1,6 +1,12 @@
 # m3 Contact Form
 <img src="Images/banner.png"/>
 
+<p align="center">
+  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
+  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
+  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
+</p>
+
 📧 A Material You inspired contact form (front-end only).
 
 <p align="center"><img src="https://imgur.com/H3GNXc9.png" width="480px" style="float: center;"/></p>
