@@ -7,7 +7,14 @@
   <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
 </p>
 
+<img align="left" height="75px" src="https://pictshare.net/uihl6g.png">
 📧 A Material You inspired contact form (front-end only).
+<br>
+✨ Subtle animations.
+<br>
+🌌 Vanilla CSS.
+
+<br><br>
 
 <p align="center"><img src="https://imgur.com/H3GNXc9.png" width="480px" style="float: center;"/></p>
 
