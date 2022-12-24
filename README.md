@@ -1,10 +1,10 @@
 # m3 Contact Form
-<img src="Images/banner.png"/>
+<img src="https://pictshare.net/eaaknp.png"/>
 
 <p align="center">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
-  <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
 </p>
 
 <img align="left" height="75px" src="https://pictshare.net/uihl6g.png">
