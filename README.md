@@ -7,6 +7,10 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
 </p>
 
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit2.svg">
+</p>
+
 <img align="left" height="75px" src="https://pictshare.net/uihl6g.png">
 📧 A Material You inspired contact form (front-end only).
 <br>
