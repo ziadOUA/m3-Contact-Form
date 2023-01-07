@@ -1,9 +1,24 @@
 # m3 Contact Form
-<a href ="#"><img src="https://imgur.com/9PaNRlo.png"/></a>
+<img src="https://pictshare.net/eaaknp.png"/>
 
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
+</p>
+
+<img align="left" height="75px" src="https://pictshare.net/uihl6g.png">
 📧 A Material You inspired contact form (front-end only).
+<br>
+✨ Subtle animations.
+<br>
+🌌 Vanilla CSS.
 
-<p align="center"> <a href ="#"> <img src="https://imgur.com/H3GNXc9.png" width="480px" style="float: center;"/> </a> </p>
+<br><br>
+
+<p align="center"><img src="https://pictshare.net/9sitkd.png" width="480px" style="float: center;"/></p>
+
+---
 
 This is a contact form designed to be both beautiful and functional. This is only the front-end, but I made it as simple as possible integrating logic and back-end.
 
@@ -15,4 +30,16 @@ To clone the repository :
 
     git clone https://github.com/ziadOUA/m3-Contact-Form.git
 
+Illustration by <a href="https://unsplash.com/@haririthanyahr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Haririthanya M</a> on <a href="https://unsplash.com/s/photos/green-flower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/ziadOUA">
+    <img align="center" height="75px" src="https://pictshare.net/4jwzdi.png">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit2.svg">
+</p>
