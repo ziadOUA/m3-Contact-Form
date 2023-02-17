@@ -1,0 +1,84 @@
+/* BUTTON BAR WRAPPER */
+
+.button-bar {
+    display: grid;
+    height: 60px;
+    margin-left: auto;
+    gap: 20px;
+    grid-template-columns: repeat(3, min-content);
+}
+
+/* BUTTONS */
+
+.save-draft-button, 
+.back-button {
+    width: 60px;
+    height: 60px;
+    
+}
+
+.save-draft-button,
+.back-button,
+.submit-button {
+    display: flex;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100vw;
+}
+
+.submit-button {
+    width: 175px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 25px;
+    line-height: 1;
+}
+
+    /* BACKGROUND COLOR */
+
+.save-draft-button,
+.submit-button {
+    color: var(--secondary-10);
+    background: var(--secondary-90);
+}
+
+.back-button {
+    color: var(--error-10);
+    background-color: var(--error-90);
+}
+
+.save-draft-button:hover,
+.submit-button:hover {
+    color: var(--neutral-100);
+    background: var(--secondary-40);
+}
+
+.back-button:hover {
+    color: var(--neutral-100);
+    background: var(--error-40);
+}
+
+    /* TRANSITION */
+
+.submit-button,
+.back-button,
+.save-draft-button,
+a .material-symbols-rounded {
+    cursor: pointer;
+    transition: background-color 300ms, color 300ms;
+}
+
+    /* ICON COLOR */
+
+.back-button .material-symbols-rounded {
+    color: var(--error-10);
+}
+
+.submit-button .material-symbols-rounded,
+.save-draft-button .material-symbols-rounded {
+    color: var(--secondary-10);
+}
+
+a:hover .material-symbols-rounded {
+    color: var(--neutral-100);
+}

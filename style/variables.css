@@ -1,0 +1,23 @@
+:root {
+    --neutral-100: #FFFFFF;
+    --neutral-99: #FDFCF5;
+    --neutral-10: #1B1C18;
+
+    --neutral-variant-90: #E1E4D5;
+    
+    --primary-90: #B7F56A;
+    --primary-40: #406900;
+    --primary-10: #102000;
+
+    --secondary-90: #D8E9BE;
+    --secondary-40: #556342;
+    --secondary-10: #131F05;
+
+    --tertiary-90: #A8F0EA;
+    --tertiary-40: #1B6965;
+    --tertiary-10: #00201E;
+
+    --error-90: #FFDAD6;
+    --error-40: #BA1A1A;
+    --error-10: #410002;
+}
