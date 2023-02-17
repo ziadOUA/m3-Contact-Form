@@ -1,10 +1,10 @@
 @media (max-width: 780px) {
-    .super-container {
+    .super-wrapper {
         grid-template-columns: 1fr !important;
         margin-block: 20px !important;
     }
 
-    .illustration {
+    .illustration-wrapper {
         width: 100% !important;
         padding: 0;
     }
@@ -15,18 +15,18 @@
     }
 
     .title {
-        font-family: 'Lexend Zetta', sans-serif !important;
+        font-family: "Lexend Zetta", sans-serif !important;
     }
 }
 
 @media (max-width: 550px) {
-    .super-container{
+    .super-wrapper {
         width: calc(100vw - 50px);
     }
 }
 
 @media (max-width: 400px) {
-    .button-bar {
+    .buttons-wrapper {
         width: 100%;
         height: fit-content;
         grid-template-columns: repeat(2, 1fr) !important;
@@ -36,7 +36,7 @@
     .back-button {
         width: 100%;
     }
-    
+
     .submit-button {
         width: 100%;
         height: 60px;

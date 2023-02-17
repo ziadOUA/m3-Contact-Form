@@ -1,6 +1,6 @@
 /* BUTTON BAR WRAPPER */
 
-.button-bar {
+.buttons-wrapper {
     display: grid;
     height: 60px;
     margin-left: auto;
@@ -10,11 +10,10 @@
 
 /* BUTTONS */
 
-.save-draft-button, 
+.save-draft-button,
 .back-button {
     width: 60px;
     height: 60px;
-    
 }
 
 .save-draft-button,
@@ -29,12 +28,12 @@
 
 .submit-button {
     width: 175px;
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: "Lexend Deca", sans-serif;
     font-size: 25px;
     line-height: 1;
 }
 
-    /* BACKGROUND COLOR */
+/* BACKGROUND COLOR */
 
 .save-draft-button,
 .submit-button {
@@ -58,7 +57,7 @@
     background: var(--error-40);
 }
 
-    /* TRANSITION */
+/* TRANSITION */
 
 .submit-button,
 .back-button,
@@ -68,7 +67,7 @@ a .material-symbols-rounded {
     transition: background-color 300ms, color 300ms;
 }
 
-    /* ICON COLOR */
+/* ICON COLOR */
 
 .back-button .material-symbols-rounded {
     color: var(--error-10);

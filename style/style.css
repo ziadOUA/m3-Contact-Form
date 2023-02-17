@@ -1,6 +1,6 @@
-@import 'variables.css';
-@import 'buttonsStyle.css';
-@import 'mediaQueries.css';
+@import "variables.css";
+@import "buttonsStyle.css";
+@import "mediaQueries.css";
 
 * {
     margin: 0;
@@ -21,14 +21,14 @@ body {
 
 /* MAIN WRAPPER */
 
-.container {
+.form-wrapper {
     display: grid;
     border-radius: 30px;
     grid-auto-rows: min-content;
     gap: 20px;
 }
 
-.super-container {
+.super-wrapper {
     display: grid;
     width: 80%;
     max-width: 1080px;
@@ -42,9 +42,9 @@ body {
 
 ::placeholder {
     padding: 5px;
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: "Lexend Deca", sans-serif;
     font-size: 12px;
-    color: #44483D;
+    color: #44483d;
 }
 
 /* INPUTS */
@@ -54,7 +54,7 @@ body {
     padding: 10px 20px;
 }
 
-.contact-input-message{
+.contact-input-message {
     height: 70px;
     min-height: 70px;
     padding: 20px 20px 10px 20px;
@@ -69,12 +69,12 @@ body {
 
 .contact-input,
 .contact-input-message {
+    border: none;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 15px;
     color: var(--neutral-10);
     background-color: var(--neutral-variant-90);
-    font-family: 'Lexend Deca', sans-serif;
-    border: none;
     border-radius: 30px;
-    font-size: 15px;
 }
 
 .contact-input,
@@ -91,7 +91,7 @@ body {
 
 /* ILLUSTRATION WRAPPER */
 
-.illustration {
+.illustration-wrapper {
     display: grid;
     width: 15%;
     min-width: 200px;
@@ -99,7 +99,7 @@ body {
     gap: 20px;
 }
 
-    /* HEADER */
+/* HEADER */
 
 .header {
     display: flex;
@@ -114,11 +114,11 @@ body {
 }
 
 .title {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: "Lexend Deca", sans-serif;
     font-size: 30px;
 }
 
-    /* ILLUSTRATION IMAGE */
+/* ILLUSTRATION IMAGE */
 
 .image {
     width: 100%;
