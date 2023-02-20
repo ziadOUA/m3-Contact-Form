@@ -16,7 +16,7 @@
 
 <br><br>
 
-<p align="center"><img src="https://pictshare.net/9sitkd.png" width="480px" style="float: center;"/></p>
+<p align="center"><img src="res/preview.png" width="480px" style="float: center;"/></p>
 
 ---
 
