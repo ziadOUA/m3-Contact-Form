@@ -8,7 +8,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
 </p>
 
-<img align="left" height="75px" src="https://pictshare.net/uihl6g.png">
+<img align="left" height="75px" src="https://i.postimg.cc/cCDLRpvS/m3contact.png">
 📧 A Material You inspired contact form (front-end only).
 <br>
 ✨ Subtle animations.
@@ -23,7 +23,7 @@
 
 This is a contact form designed to be both beautiful and functional. This is only the front-end, but I made it as simple as possible integrating logic and back-end.
 
-<a href="https://ziadoua.github.io/m3-Contact-Form/" target="_blank" rel="noopener noreferrer"> <img src="https://imgur.com/Wk0lfTg.png" width="250px"/> </a>
+<a href="https://ziadoua.github.io/m3-Contact-Form/" target="_blank" rel="noopener noreferrer"> <img src="https://i.postimg.cc/C14fB6YG/button.png" width="250px"/> </a>
 
 Latest release [here](https://github.com/ziadOUA/m3-Contact-Form/releases/latest).
 
