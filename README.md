@@ -1,5 +1,6 @@
 # m3 Contact Form
-<img src="https://pictshare.net/eaaknp.png"/>
+
+<img src="https://i.postimg.cc/Yqf7YKmL/CONTACTFORM.png"/>
 
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
@@ -35,10 +36,12 @@ Illustration by <a href="https://unsplash.com/@pawel_czerwinski?utm_source=unspl
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/ziadOUA">
-    <img align="center" height="75px" src="https://pictshare.net/4jwzdi.png">
-  </a>
+<p align="center">  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/KzPKjBNn/footer-Dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/C5wRq5P9/footer-Light.png">
+    <img alt="Footer" src="https://i.postimg.cc/KzPKjBNn/footer-Dark.png">
+  </picture>
 </p>
 
 <p align="center">
